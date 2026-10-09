@@ -1,0 +1,6 @@
+{
+  "name": "GeoSpec - Fichas Técnicas & Ubicaciones",
+  "description": "Generador y editor de imágenes en formato 16:9 con dirección, enlace y QR a Google Maps, especificaciones técnicas y exportación automática en alta resolución.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
